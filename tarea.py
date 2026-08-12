@@ -10,4 +10,5 @@ class Tarea:
         return self.listo
     def terminar(self):
         self.listo=True
-        
+    def papu(self):
+        print("hola papuuuu")    
